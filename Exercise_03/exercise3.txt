@@ -1,0 +1,4 @@
+vlad(powernorm = True) -> Top-1 accuracy: 0.8261111111111111 - mAP: 0.633536000379614
+after esvm -> Top-1 accuracy: 0.8863888888888889 - mAP: 0.7522778552243318
+vlad(powernorm = False) -> Top-1 accuracy: 0.8097222222222222 - mAP: 0.6171512462742518
+after esvm -> Top-1 accuracy: 0.8761111111111111 - mAP: 0.7324964140689996
